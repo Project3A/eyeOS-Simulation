@@ -1,16 +1,16 @@
 # eyeOS-Simulation
 
-## Notes
-→ The program is written in C# Programming Language
-
-## Requirements
-→ Visual Studio 2015
-→ Windows 7 SP 1 or higher
-
+<br>## Notes
+<br>→ The program is written in C# Programming Language
+<br>
+<br>## Requirements
+<br>→ Visual Studio 2015
+<br>→ Windows 7 SP 1 or higher
+<br>
 ## Instructions
-► Modify
-  → Download and Extract
-  → Open the solution (eyeOS.sln)
-► Running or Testing the file
-  → Download and Extract
-  → Open the eyeOS.exe file (Location : eyeOS/bin/Debug/eyeOS.exe
+<br>► Modify
+<br>  → Download and Extract
+<br>  → Open the solution (eyeOS.sln)<br>
+<br>► Running or Testing the file
+<br>  → Download and Extract
+<br>  → Open the eyeOS.exe file (Location : eyeOS/bin/Debug/eyeOS.exe
